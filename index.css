@@ -110,7 +110,6 @@ body {
 .heart::after {
     right: 7.5px;
 }
-
 .flap > .envelope::before {
     z-index: 0;
     transform: rotateX(180deg);
